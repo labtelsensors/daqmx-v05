@@ -1,0 +1,133 @@
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Public\Documents\National Instruments\NI-DAQ\Examples\DotNET4.5\Analog In\Measure Voltage\ContAcqVoltageSamples_IntClk_ToFile\CS\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.Common.dll
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.Common.xml
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.AssemblyReference.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.AssemblyReference.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\DAQmx App\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\bin\Debug\NationalInstruments.Common.dll
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\bin\Debug\NationalInstruments.Common.xml
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\mari_\Documents\Visual Studio 2022\daqmx_app_02\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_v3\daqmx_app_03\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.AssemblyReference.cache
+D:\Docs\Visual Studio 2022\daqmx_app_04\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+D:\Docs\Visual Studio 2022\daqmx_app_04\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+D:\Docs\Visual Studio 2022\daqmx_app_04\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+D:\Docs\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.Common.dll
+D:\Docs\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Docs\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.Common.xml
+D:\Docs\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.DAQmx.xml
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+D:\Docs\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.AssemblyReference.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.AssemblyReference.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_04\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe.config
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\bin\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.AssemblyReference.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\NationalInstruments.Examples.ContAcqVoltageSamples_IntClk_ToFile.MainForm.resources
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.GenerateResource.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.2012.csproj.CopyComplete
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.exe
+C:\Users\Mariana Lyra\Documents\Visual Studio 2022\daqmx_app_05\obj\Debug\ContAcqVoltageSamples_IntClk_ToFile.pdb
